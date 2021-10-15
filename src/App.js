@@ -8,6 +8,7 @@ export default function App() {
       <h1>Hello StackBlitz!</h1>
       <p>Start editing to see some magic happen :)</p>
       <Ninjas name="Ryu" age="25" belt="Black" />
+      <Ninjas name="Yoshi" age="30" belt="White" />
     </div>
   );
 }
